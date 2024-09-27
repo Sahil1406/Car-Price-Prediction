@@ -20,13 +20,13 @@ Car Price Prediction is a machine learning project designed to estimate the pric
 - Displays evaluation metrics for accuracy and error rates.
 
 ## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+- `Python`
+- `Pandas`
+- `NumPy`
+- `Scikit-learn`
+- `Matplotlib`
+- `Seaborn`
+- `Jupyter Notebook`
 
 ## Dataset
 The dataset used for this project includes various features related to car specifications such as:
@@ -82,4 +82,4 @@ To run this project locally, follow these steps:
 
 
 Contact
-For inquiries, please reach out to me at your_email@example.com.
+For inquiries, please reach out to me at sahilsuryawanshi76@gmail.com.
